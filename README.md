@@ -8,6 +8,12 @@ avibile colors:
 
 red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
 
+.bg-*color*-full - sets the background(container) without any margins
+
+avibile colors:
+
+red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
+
 .*color* - sets the text or link color
 
 avibile colors:
